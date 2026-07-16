@@ -51,7 +51,7 @@ activities = {
         "max_participants": 16,
         "participants": ["sophie@mergington.edu"]
     },
-    "Drama Club": {
+    "Drama Clubs": {
         "description": "Perform in theatrical productions and develop acting skills",
         "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
         "max_participants": 25,
